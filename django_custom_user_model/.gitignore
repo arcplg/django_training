@@ -1,0 +1,16 @@
+# Environments
+.DS_store
+.env
+venv/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+*.log
+src/local_settings.py
+src/db.sqlite3
+src/db.sqlite3-journal
+docker/db/*
+node_modules/
