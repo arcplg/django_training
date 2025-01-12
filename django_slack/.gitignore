@@ -1,5 +1,5 @@
 # configuration environnement 
-.env*
+.env
 venv
 
 # Django 
